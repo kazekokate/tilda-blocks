@@ -1,238 +1,44 @@
 {
   "accessors": [
     {
-      "bufferView": 2,
+      "bufferView": 1,
       "componentType": 5126,
-      "count": 65532,
+      "count": 3120,
       "max": [
-        49.4564208984375,
-        37.478179931640625,
-        21.461643218994141
+        99.95361328125,
+        99.990997314453125,
+        99.957008361816406
       ],
       "min": [
-        -37.910850524902344,
-        -51.366539001464844,
-        -20.322616577148438
+        -99.81982421875,
+        -99.389945983886719,
+        -99.440414428710938
       ],
       "type": "VEC3"
-    },
-    {
-      "bufferView": 2,
-      "byteOffset": 786384,
-      "componentType": 5126,
-      "count": 65532,
-      "max": [
-        0.99974346160888672,
-        1,
-        1
-      ],
-      "min": [
-        -0.99967509508132935,
-        -1,
-        -1
-      ],
-      "type": "VEC3"
-    },
-    {
-      "bufferView": 3,
-      "componentType": 5126,
-      "count": 65532,
-      "max": [
-        1,
-        1,
-        1,
-        1
-      ],
-      "min": [
-        -0.99958574771881104,
-        -1,
-        -1,
-        -1
-      ],
-      "type": "VEC4"
     },
     {
       "bufferView": 1,
+      "byteOffset": 37440,
       "componentType": 5126,
-      "count": 65532,
+      "count": 3120,
       "max": [
-        0.99800997972488403,
-        0.99801301956176758
+        0.99807482957839966,
+        0.99364036321640015,
+        0.99412250518798828
       ],
       "min": [
-        0.0017559999832883477,
-        0.0016949999844655395
+        -0.99943065643310547,
+        -0.99987339973449707,
+        -0.99948680400848389
       ],
-      "type": "VEC2"
+      "type": "VEC3"
     },
     {
       "bufferView": 0,
       "componentType": 5125,
-      "count": 93198,
+      "count": 4680,
       "max": [
-        65531
-      ],
-      "min": [
-        0
-      ],
-      "type": "SCALAR"
-    },
-    {
-      "bufferView": 2,
-      "byteOffset": 1572768,
-      "componentType": 5126,
-      "count": 65532,
-      "max": [
-        12.860065460205078,
-        22.154064178466797,
-        0.568805992603302
-      ],
-      "min": [
-        -15.199010848999023,
-        1.1724079847335815,
-        -12.205842971801758
-      ],
-      "type": "VEC3"
-    },
-    {
-      "bufferView": 2,
-      "byteOffset": 2359152,
-      "componentType": 5126,
-      "count": 65532,
-      "max": [
-        0.99928766489028931,
-        0.99977564811706543,
-        1
-      ],
-      "min": [
-        -0.99928814172744751,
-        -0.99977552890777588,
-        -1
-      ],
-      "type": "VEC3"
-    },
-    {
-      "bufferView": 3,
-      "byteOffset": 1048512,
-      "componentType": 5126,
-      "count": 65532,
-      "max": [
-        0.9997747540473938,
-        0.99957793951034546,
-        1,
-        1
-      ],
-      "min": [
-        -0.9997754693031311,
-        -0.99957776069641113,
-        -1,
-        -1
-      ],
-      "type": "VEC4"
-    },
-    {
-      "bufferView": 1,
-      "byteOffset": 524256,
-      "componentType": 5126,
-      "count": 65532,
-      "max": [
-        0.99800902605056763,
-        0.99801701307296753
-      ],
-      "min": [
-        0.0017389999702572823,
-        0.0017610000213608146
-      ],
-      "type": "VEC2"
-    },
-    {
-      "bufferView": 0,
-      "byteOffset": 372792,
-      "componentType": 5125,
-      "count": 113985,
-      "max": [
-        65531
-      ],
-      "min": [
-        0
-      ],
-      "type": "SCALAR"
-    },
-    {
-      "bufferView": 2,
-      "byteOffset": 3145536,
-      "componentType": 5126,
-      "count": 11200,
-      "max": [
-        54.801124572753906,
-        54.801136016845703,
-        0.568805992603302
-      ],
-      "min": [
-        -54.801124572753906,
-        -54.801136016845703,
-        -21.461643218994141
-      ],
-      "type": "VEC3"
-    },
-    {
-      "bufferView": 2,
-      "byteOffset": 3279936,
-      "componentType": 5126,
-      "count": 11200,
-      "max": [
-        0.98768854141235352,
-        0.98768824338912964,
-        1
-      ],
-      "min": [
-        -0.98768824338912964,
-        -0.98768824338912964,
-        -1
-      ],
-      "type": "VEC3"
-    },
-    {
-      "bufferView": 3,
-      "byteOffset": 2097024,
-      "componentType": 5126,
-      "count": 11200,
-      "max": [
-        0.99687755107879639,
-        0.98768866062164307,
-        1,
-        1
-      ],
-      "min": [
-        -0.99760693311691284,
-        -0.99723178148269653,
-        -1,
-        -1
-      ],
-      "type": "VEC4"
-    },
-    {
-      "bufferView": 1,
-      "byteOffset": 1048512,
-      "componentType": 5126,
-      "count": 11200,
-      "max": [
-        0.95705097913742065,
-        0.99801701307296753
-      ],
-      "min": [
-        0.0018700000364333391,
-        0.0019920000340789557
-      ],
-      "type": "VEC2"
-    },
-    {
-      "bufferView": 0,
-      "byteOffset": 828732,
-      "componentType": 5125,
-      "count": 18588,
-      "max": [
-        11199
+        3119
       ],
       "min": [
         0
@@ -242,66 +48,61 @@
   ],
   "asset": {
     "extras": {
-      "author": "jemepousse (https://sketchfab.com/jemepousse)",
+      "author": "AjaxGb (https://sketchfab.com/ajaxgb)",
       "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
-      "source": "https://sketchfab.com/3d-models/desert-city-5d985d386c6a4bedb871b563bbe14640",
-      "title": "Desert city"
+      "source": "https://sketchfab.com/3d-models/extracted-minecraft-java-editions-stars-c8868b7ffc4a473eb5cd9203a59e3650",
+      "title": "[Extracted] Minecraft Java Edition's Stars"
     },
-    "generator": "Sketchfab-6.22.0",
+    "generator": "Sketchfab-9.34.0",
     "version": "2.0"
   },
   "bufferViews": [
     {
       "buffer": 0,
-      "byteLength": 903084,
+      "byteLength": 18720,
       "byteOffset": 0,
       "name": "floatBufferViews",
       "target": 34963
     },
     {
       "buffer": 0,
-      "byteLength": 1138112,
-      "byteOffset": 903084,
-      "byteStride": 8,
-      "name": "floatBufferViews",
-      "target": 34962
-    },
-    {
-      "buffer": 0,
-      "byteLength": 3414336,
-      "byteOffset": 2041196,
+      "byteLength": 74880,
+      "byteOffset": 18720,
       "byteStride": 12,
-      "name": "floatBufferViews",
-      "target": 34962
-    },
-    {
-      "buffer": 0,
-      "byteLength": 2276224,
-      "byteOffset": 5455532,
-      "byteStride": 16,
       "name": "floatBufferViews",
       "target": 34962
     }
   ],
   "buffers": [
     {
-      "byteLength": 7731756,
+      "byteLength": 93600,
       "uri": "scene.bin"
     }
+  ],
+  "extensionsUsed": [
+    "KHR_materials_unlit"
   ],
   "materials": [
     {
       "doubleSided": true,
-      "name": "material_0",
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "extensions": {
+        "KHR_materials_unlit": {}
+      },
+      "name": "star",
       "pbrMetallicRoughness": {
         "baseColorFactor": [
-          0.93098142450471388,
-          0.52112099080231622,
-          0.44642307736932385,
+          1,
+          1,
+          1,
           1
         ],
         "metallicFactor": 0,
-        "roughnessFactor": 0.59999999999999998
+        "roughnessFactor": 1
       }
     }
   ],
@@ -311,41 +112,9 @@
         {
           "attributes": {
             "NORMAL": 1,
-            "POSITION": 0,
-            "TANGENT": 2,
-            "TEXCOORD_0": 3
+            "POSITION": 0
           },
-          "indices": 4,
-          "material": 0,
-          "mode": 4
-        }
-      ]
-    },
-    {
-      "primitives": [
-        {
-          "attributes": {
-            "NORMAL": 6,
-            "POSITION": 5,
-            "TANGENT": 7,
-            "TEXCOORD_0": 8
-          },
-          "indices": 9,
-          "material": 0,
-          "mode": 4
-        }
-      ]
-    },
-    {
-      "primitives": [
-        {
-          "attributes": {
-            "NORMAL": 11,
-            "POSITION": 10,
-            "TANGENT": 12,
-            "TEXCOORD_0": 13
-          },
-          "indices": 14,
+          "indices": 2,
           "material": 0,
           "mode": 4
         }
@@ -373,22 +142,12 @@
     },
     {
       "children": [
-        3,
-        4,
-        5
+        3
       ],
-      "name": "OASIS_02.obj.cleaner.gles"
+      "name": "mc-stars.obj.cleaner.materialmerger.gles"
     },
     {
       "mesh": 0,
-      "name": ""
-    },
-    {
-      "mesh": 1,
-      "name": ""
-    },
-    {
-      "mesh": 2,
       "name": ""
     }
   ],
